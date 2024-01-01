@@ -19,70 +19,70 @@
 ## Contents
 
 - Data Structures and Algorithms
-  - Introduction to Data Structures and Algorithms
+  - `Introduction to Data Structures and Algorithms`
     - Importance and Applications
     - Basic Definitions
     - Efficiency Analysis (Time and Space Complexity)
-  - Fundamentals of Programming
+  - `Fundamentals of Programming`
     - Variables and Data Types
     - Control Structures (if, else, switch)
     - Loops (for, while, do-while)
-  - Array and Strings
+  - `Array and Strings`
     - Arrays
     - Strings
     - Operations and Manipulations
-  - Linked Lists
+  - `Linked Lists`
     - Singly Linked Lists
     - Doubly Linked Lists
     - Circular Linked Lists
     - Operations and Implementations
-  - Stacks and Queues
+  - `Stacks and Queues`
     - Stack Operations
     - Queue Operations
     - Applications
-  - Trees
+  - `Trees`
     - Binary Trees
     - Binary Search Trees
     - AVL Trees
     - Heaps
     - Tree Traversals (In-order, Pre-order, Post-order)
-  - Graphs
+  - `Graphs`
     - Graph Representation (Adjacency Matrix, Adjacency List)
     - Depth-First Search (DFS)
     - Breadth-First Search (BFS)
     - Shortest Path Algorithms (Dijkstra's, Bellman-Ford)
     - Minimum Spanning Tree (Prim's, Kruskal's)
-  - Hashing
+  - `Hashing`
     - Hash Functions
     - Hash Tables
     - Collision Resolution
-  - Sorting and Searching
+  - `Sorting and Searching`
     - Sorting Algorithms (Bubble, Selection, Insertion, Merge, Quick, Heap)
     - Searching Algorithms (Linear Search, Binary Search)
-  - Dynamic Programming
+  - `Dynamic Programming`
     - Concept and Applications
     - Memoization and Tabulation
-  - Divide and Conquer
+  - `Divide and Conquer`
     - Concept and Applications
     - Merge Sort, Quick Sort
-  - Greedy Algorithms
+  - `Greedy Algorithms`
     - Concept and Applications
     - Huffman Coding
-  - Advanced Topics
+  - `Advanced Topics`
     - Trie
     - Segment Tree
     - Disjoint Set (Union-Find)
-  - Algorithmic Paradigms
+  - `Algorithmic Paradigms`
     - Backtracking
     - Bit Manipulation
-  - Complexity Classes
+  - `Complexity Classes`
     - P, NP, NP-Complete
-  - Case Studies and Real-world Applications
+  - `Case Studies and Real-world Applications`
     - Application of DSA in Software Development
-  - Interview Preparation
+  - `Interview Preparation`
     - Commonly Asked DSA Questions
     - Problem-solving Strategies
-  - Best Practices and Coding Standards
+  - `Best Practices and Coding Standards`
     - Code Optimization
     - Readable and Maintainable Code
 
@@ -90,19 +90,19 @@
 
 ### 📅 Days 1-5: Introduction to Data Structures
 
-#### ✅ Day 1: Introduction
+#### ✅ Day 1: `Introduction`
 
 - Importance and Applications
 - Basic Definitions
 - Time and Space Complexity
 
-#### ❌ Day 2-3: Stacks and Queues
+#### ❌ Day 2-3: `Stacks and Queues`
 
 - Learn about basic data structures: arrays, stacks, and queues.
 - Implement and practice using stacks and queues.
 - Solve problems involving these data structures.
 
-#### ❌ Day 4-5: Linked Lists
+#### ❌ Day 4-5: `Linked Lists`
 
 - Singly and doubly linked lists.
 - Operations on linked lists.
@@ -111,12 +111,12 @@
 
 ### 📅 Days 6-12: Sorting and Searching Algorithms
 
-#### ❌ Day 6-9: Sorting Algorithms
+#### ❌ Day 6-9: `Sorting Algorithms`
 
 - Bubble sort, selection sort, insertion sort.
 - Quick sort and merge sort.
 
-#### ❌ Day 10-12: Searching Algorithms
+#### ❌ Day 10-12: `Searching Algorithms`
 
 - Linear search and binary search.
 - Practice implementing and applying searching algorithms.
@@ -125,17 +125,17 @@
 
 ### 📅 Days 13-20: Trees and Graphs
 
-#### ❌ Day 13-15: Trees
+#### ❌ Day 13-15: `Trees`
 
 - Binary trees, binary search trees (BST).
 - Tree traversal algorithms (in-order, pre-order, post-order).
 
-#### ❌ Day 16-17: Graphs
+#### ❌ Day 16-17: `Graphs`
 
 - Basics of graphs: representation and traversal.
 - Depth-First Search (DFS) and Breadth-First Search (BFS).
 
-#### ❌ Day 18-20: Advanced Tree and Graph Concepts
+#### ❌ Day 18-20: `Advanced Tree and Graph Concepts`
 
 - AVL trees, Red-Black trees.
 - Advanced graph algorithms (Dijkstra's, Bellman-Ford, etc.).
@@ -144,11 +144,11 @@
 
 ### 📅 Days 20-25: Dynamic Programming
 
-#### ❌ Day 20-23: Introduction to Dynamic Programming (DP)
+#### ❌ Day 20-23: `Introduction to Dynamic Programming (DP)`
 
 - Understanding the concept of overlapping sub-problems and optimal substructure.
 
-#### ❌ Day 24-25: Solve DP Problems
+#### ❌ Day 24-25: `Solve DP Problems`
 
 - Start with basic DP problems.
 - Progress to more complex problems as you become comfortable.
@@ -157,24 +157,20 @@
 
 ### 📅 Days 26-30: Advanced Topics and Review
 
-#### ❌ Day 26-28: Advanced Data Structures
+#### ❌ Day 26-28: `Advanced Data Structures`
 
 - Hashing, heaps, tries.
 - Applications and use cases.
 
-#### ❌ Day 29: Advanced Algorithms
+#### ❌ Day 29: `Advanced Algorithms`
 
 - Advanced sorting algorithms (e.g., heap sort).
 - String matching algorithms.
 
-#### ❌ Day 30: Review and Reinforcement
+#### ❌ Day 30: `Review and Reinforcement`
 
 - Go back to challenging problems and concepts.
 - Mock interviews and real-world problem-solving.
-
-</br></br>
-
-## HAPPY LEARNING !!
 
 </br></br>
 
@@ -184,5 +180,6 @@
 </h4>
 
 <p align="center">
+  HAPPY LEARNING !!</br>
   DEVELOPED WITH ❤️ BY SNEH KR 
 </p>
