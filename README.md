@@ -96,7 +96,7 @@
 - Basic Definitions
 - Time and Space Complexity
 
-#### ❌ Day 2-3: `Stacks and Queues`
+#### 🟠 Day 2-3: `Stacks and Queues`
 
 - Learn about basic data structures: arrays, stacks, and queues.
 - Implement and practice using stacks and queues.
