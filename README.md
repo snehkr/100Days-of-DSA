@@ -10,7 +10,7 @@
 
 </br>
 
-#### 📅 TRACK DAYS: 03 of 30
+#### 📅 TRACK DAYS: 04 of 30
 
 #### ✅ COMPLETED ❌ NOT COMPLETED 🟠 IN-PROGRESS
 
@@ -102,7 +102,7 @@
 - Implement and practice using stacks and queues.
 - Solve problems involving these data structures.
 
-#### ❌ Day 4-5: `Linked Lists`
+#### 🟠 Day 4-5: `Linked Lists`
 
 - Singly and doubly linked lists.
 - Operations on linked lists.
