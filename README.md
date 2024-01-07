@@ -10,7 +10,7 @@
 
 </br>
 
-#### 📅 TRACK DAYS: 06 of 30
+#### 📅 TRACK DAYS: 07 of 30
 
 #### ✅ COMPLETED ❌ NOT COMPLETED 🟠 IN-PROGRESS
 
