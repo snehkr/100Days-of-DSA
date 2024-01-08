@@ -10,7 +10,7 @@
 
 </br>
 
-#### 📅 TRACK DAYS: 07 of 30
+#### 📅 TRACK DAYS: 08 of 30
 
 #### ✅ COMPLETED ❌ NOT COMPLETED 🟠 IN-PROGRESS
 
@@ -114,7 +114,7 @@
 #### 🟠 Day 6-9: `Sorting Algorithms`
 
 - Bubble sort, selection sort, insertion sort.
-- Quick sort and merge sort.
+- Quick sort, merge sort & Heap sort.
 
 #### ❌ Day 10-12: `Searching Algorithms`
 
