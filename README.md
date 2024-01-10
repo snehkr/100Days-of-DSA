@@ -10,7 +10,7 @@
 
 </br>
 
-#### 📅 TRACK DAYS: 09 of 30
+#### 📅 TRACK DAYS: 10 of 30
 
 #### ✅ COMPLETED ❌ NOT COMPLETED 🟠 IN-PROGRESS
 
@@ -111,12 +111,12 @@
 
 ### 📅 Days 6-12: Sorting and Searching Algorithms
 
-#### 🟠 Day 6-9: `Sorting Algorithms`
+#### ✅ Day 6-9: `Sorting Algorithms`
 
 - Bubble sort, selection sort, insertion sort.
 - Quick sort, merge sort & Heap sort.
 
-#### ❌ Day 10-12: `Searching Algorithms`
+#### 🟠 Day 10-12: `Searching Algorithms`
 
 - Linear search and binary search.
 - Practice implementing and applying searching algorithms.
