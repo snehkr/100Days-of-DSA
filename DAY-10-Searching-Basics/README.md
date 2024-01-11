@@ -8,9 +8,8 @@
 
 - Data Structures and Algorithms
   - `Searching : Basics`
-    - Non-Comparison Sorting
-      - Counting Sort
-      - Radix Sort
+    - Linear Search
+    - Binary Search
 
 </br>
 
