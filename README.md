@@ -10,7 +10,7 @@
 
 </br>
 
-#### 📅 TRACK DAYS: 14 of 30
+#### 📅 TRACK DAYS: 15 of 30
 
 #### ✅ COMPLETED ❌ NOT COMPLETED 🟠 IN-PROGRESS
 
@@ -125,7 +125,7 @@
 
 ### 📅 Days 13-20: Trees and Graphs
 
-#### 🟠 Day 13-15: `Trees`
+#### ✅ Day 13-15: `Trees`
 
 - Binary trees, binary search trees (BST), AVL Tree, Heap.
 - Tree traversal algorithms (in-order, pre-order, post-order).
