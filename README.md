@@ -10,7 +10,7 @@
 
 </br>
 
-#### 📅 TRACK DAYS: 16 of 30
+#### 📅 TRACK DAYS: 17 of 30
 
 #### ✅ COMPLETED ❌ NOT COMPLETED 🟠 IN-PROGRESS
 
@@ -130,7 +130,7 @@
 - Binary trees, binary search trees (BST), AVL Tree, Heap.
 - Tree traversal algorithms (in-order, pre-order, post-order).
 
-#### 🟠 Day 16-17: `Graphs`
+#### ✅ Day 16-17: `Graphs`
 
 - Basics of graphs: representation and traversal.
 - Depth-First Search (DFS) and Breadth-First Search (BFS).
