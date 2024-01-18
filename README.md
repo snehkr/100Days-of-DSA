@@ -10,7 +10,7 @@
 
 </br>
 
-#### 📅 TRACK DAYS: 17 of 30
+#### 📅 TRACK DAYS: 18 of 30
 
 #### ✅ COMPLETED ❌ NOT COMPLETED 🟠 IN-PROGRESS
 
@@ -135,7 +135,7 @@
 - Basics of graphs: representation and traversal.
 - Depth-First Search (DFS) and Breadth-First Search (BFS).
 
-#### ❌ Day 18-20: `Advanced Tree and Graph Concepts`
+#### 🟠 Day 18-20: `Advanced Tree and Graph Concepts`
 
 - AVL trees, Red-Black trees.
 - Advanced graph algorithms (Dijkstra's, Bellman-Ford, etc.).
