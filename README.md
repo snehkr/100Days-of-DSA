@@ -10,7 +10,7 @@
 
 </br>
 
-#### 📅 TRACK DAYS: 18 of 30
+#### 📅 TRACK DAYS: 19 of 30
 
 #### ✅ COMPLETED ❌ NOT COMPLETED 🟠 IN-PROGRESS
 
@@ -135,7 +135,7 @@
 - Basics of graphs: representation and traversal.
 - Depth-First Search (DFS) and Breadth-First Search (BFS).
 
-#### 🟠 Day 18-20: `Advanced Tree and Graph Concepts`
+#### ✅ Day 18-19: `Advanced Tree and Graph Concepts`
 
 - AVL trees, Red-Black trees.
 - Advanced graph algorithms (Dijkstra's, Bellman-Ford, etc.).
@@ -144,11 +144,11 @@
 
 ### 📅 Days 20-25: Dynamic Programming
 
-#### ❌ Day 20-23: `Introduction to Dynamic Programming (DP)`
+#### ❌ Day 20: `Introduction to Dynamic Programming (DP)`
 
 - Understanding the concept of overlapping sub-problems and optimal substructure.
 
-#### ❌ Day 24-25: `Solve DP Problems`
+#### ❌ Day 21-25: `Solve DP Problems`
 
 - Start with basic DP problems.
 - Progress to more complex problems as you become comfortable.
