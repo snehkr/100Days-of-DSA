@@ -10,7 +10,7 @@
 
 </br>
 
-#### 📅 TRACK DAYS: 19 of 30
+#### 📅 TRACK DAYS: 20 of 30
 
 #### ✅ COMPLETED ❌ NOT COMPLETED 🟠 IN-PROGRESS
 
@@ -144,7 +144,7 @@
 
 ### 📅 Days 20-25: Dynamic Programming
 
-#### ❌ Day 20: `Introduction to Dynamic Programming (DP)`
+#### ✅ Day 20: `Introduction to Dynamic Programming (DP)`
 
 - Understanding the concept of overlapping sub-problems and optimal substructure.
 
